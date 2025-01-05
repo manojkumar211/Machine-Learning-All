@@ -7,3 +7,7 @@ Those are:
 ```
 By using this method, we can fill the null values with mean, median, mode.
 ```
+## 2) Replace():-
+```
+By using this method, we can replace the null values with mean, median, mode. which is nothing but similar to the fillna() method.
+```
